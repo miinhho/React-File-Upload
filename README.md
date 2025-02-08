@@ -10,7 +10,7 @@
   <br />
 
   <p>
-    Used <a href="https://httpbin.org/" target="_blank">httpbin</a> for Backend
+    Used <a href="https://httpbin.org/" target="_blank">httpbin</a> for Backend <br />
     Thanks to httpbin
   </p>
 
