@@ -23,12 +23,12 @@
   <br />
 
   <img
-    src="https://github.com/miinhho/react-file-upload/blob/main/images/uploading.png?raw=true"
+    src="./images/uploading.png"
     alt="uploading"
   />
   <p>Uploading</p>
   <img
-    src="https://github.com/miinhho/react-file-upload/blob/main/images/success-upload.png?raw=true"
+    src="./images/success-upload.png"
     alt="success uploading"
   />
   <p>Success Uploading</p>
